@@ -1,0 +1,3 @@
+[submodule "wallhavenAPI"]
+	path = wallhavenAPI
+	url = https://github.com/kshku/WallhavenAPI.git
