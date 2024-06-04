@@ -1,3 +1,6 @@
 [submodule "wallhavenAPI"]
 	path = wallhavenAPI
 	url = https://github.com/kshku/WallhavenAPI.git
+[submodule "cJSON"]
+	path = cJSON
+	url = https://github.com/DaveGamble/cJSON.git
